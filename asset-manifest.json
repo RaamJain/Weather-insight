@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Weather-insight/static/css/main.73533d2a.css",
-    "main.js": "/Weather-insight/static/js/main.a825d2fc.js",
-    "static/js/453.13939913.chunk.js": "/Weather-insight/static/js/453.13939913.chunk.js",
-    "static/media/background.jpg": "/Weather-insight/static/media/background.3f198c81220741b102bd.jpg",
-    "index.html": "/Weather-insight/index.html",
-    "main.73533d2a.css.map": "/Weather-insight/static/css/main.73533d2a.css.map",
-    "main.a825d2fc.js.map": "/Weather-insight/static/js/main.a825d2fc.js.map",
-    "453.13939913.chunk.js.map": "/Weather-insight/static/js/453.13939913.chunk.js.map"
+    "main.css": "/Weather-insight/public/index.html/static/css/main.5c26590d.css",
+    "main.js": "/Weather-insight/public/index.html/static/js/main.c78829b2.js",
+    "static/js/453.13939913.chunk.js": "/Weather-insight/public/index.html/static/js/453.13939913.chunk.js",
+    "static/media/background.jpg": "/Weather-insight/public/index.html/static/media/background.3f198c81220741b102bd.jpg",
+    "index.html": "/Weather-insight/public/index.html/index.html",
+    "main.5c26590d.css.map": "/Weather-insight/public/index.html/static/css/main.5c26590d.css.map",
+    "main.c78829b2.js.map": "/Weather-insight/public/index.html/static/js/main.c78829b2.js.map",
+    "453.13939913.chunk.js.map": "/Weather-insight/public/index.html/static/js/453.13939913.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.73533d2a.css",
-    "static/js/main.a825d2fc.js"
+    "static/css/main.5c26590d.css",
+    "static/js/main.c78829b2.js"
   ]
 }
