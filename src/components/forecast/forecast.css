@@ -1,0 +1,72 @@
+.title{
+    font-size : 26px;
+    font-weight : 700;
+    margin: 10px;
+}
+
+.daily-item{
+    background-color: 			#d19fa3;
+    border-radius: 12px;
+    margin : 6px;
+    height : 50px;
+    display: flex;
+    align-items: center;
+    cursor:pointer;
+    font-size: 17px;
+    padding : 5px 20px;
+    color : rgb(5, 5, 5)
+}
+
+.item-icon{
+    width: 40px;
+}
+
+.day{
+    color: #212121;
+    flex : 1 1;
+    font-weight: 600;
+    margin-left: 15px;
+}
+
+.desc{
+    flex : 1 1;
+    margin-right: 25px;
+    text-align: right;
+    color: black;
+}
+
+.min-max{
+    color : #414141;
+}
+
+.daily-panel{
+    display : grid;
+    flex : 1 1;
+    grid-row-gap: 0;
+    grid-column-gap: 15px;
+    column-gap: 15px;
+    grid-template-columns: auto auto;
+    padding: 5px 15px;
+    row-gap: 0;
+}
+
+.panel-item{
+    display: flex;
+    align-items: center;
+    height: 30px;
+    justify-content: space-between;
+}
+
+.panel-item label:first-child{
+    font-weight: bolder;
+    color : #353434;
+}
+
+.panel-item label:last-child{
+    
+    color : #212121;
+}
+
+.button{
+    margin-bottom :15px;
+}
