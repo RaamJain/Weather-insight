@@ -5,7 +5,8 @@
 }
 
 .daily-item{
-    background-color: 			#d19fa3;
+    background-color: rgba(206, 228, 241, 0.225);
+    box-shadow: 10px -1px 30px 3px rgba(59, 73, 100, 0.3);
     border-radius: 12px;
     margin : 6px;
     height : 50px;

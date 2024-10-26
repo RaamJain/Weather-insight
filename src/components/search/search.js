@@ -1,6 +1,9 @@
 import { useState } from "react";
 import { AsyncPaginate } from "react-select-async-paginate";
 import { geoApiOption, geo_url } from "../../api";
+import "./search.css";
+
+
 const Search = ({onSearchChange}) => {
 
     const [search, setSearch] = useState(null);
